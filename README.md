@@ -10,13 +10,9 @@ It organizes everything using templates, slash commands, and structured folders,
 You can also make reusable helpers (skills, subagents, tools) when something works really well.
 
  # 1. /constitution:
-is a command in Spec-Kit Plus that sets the rules and standards for your entire project before you start building anything.
-Think of it like creating a “project rulebook” that tells:
-How good your code should be
-What quality you expect
-What style or standards everyone must follow
-What success looks like for the whole project
-It makes sure that you and your AI follow the same guidelines from start to finish.
+is a command in Spec-Kit Plus that sets the rules and standards for your entire project before you start 
+building anything.
+
 
 # 2./specify
 is a command in Spec-Kit Plus that helps you clearly write what you want to build before you start coding.
